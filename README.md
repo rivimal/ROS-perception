@@ -1,21 +1,21 @@
 Perception is probably one of the most important things when we talk about autonomy.
 
-In this is performed by robots using the ROS Framework.
+This is performed by robots using the ROS Framework.
 
-At the end of this course you will fell comfortable about making robots do the following things:
+At the end of this course you will feel comfortable about making robots do the following things:
 
-Track objects by its color blobs
+  1. Track objects by their color blobs
 
-Navigate following floor lines with only RGB camera
+  2. Navigate following floor lines with only the RGB camera
 
-Detect human faces and track them
+  3. Detect human faces and track them
 
-Recognize different faces
+  4. Recognize different faces
 
-Track a person through a 3D environment
+  5. Track a person through a 3D environment
 
-Recognize flat surfaces like tables where object might be placed
+  6. Recognize flat surfaces like tables where objects might be placed
 
-Recognize objects and track them in 3D space with PointCloudSensors
+  7. Recognize objects and track them in 3D space with PointCloudSensors
 
-Use Yolo for object recognition and tracking in 3D space
+  8. Use Yolo for object recognition and tracking in 3D space
